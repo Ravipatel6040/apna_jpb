@@ -1,0 +1,8 @@
+/* src/App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(248, 241, 255); /* Light purple background */
+  font-family: sans-serif;
+}
